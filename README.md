@@ -1,5 +1,4 @@
 # -Hosting-a-WordPress-Website-on-AWS
-![Alt text](Host_a_WordPress_Website_on_AWS.png)
 
 This project involves deploying a WordPress website on AWS using various services and configurations for reliability, scalability, and security. Below is a detailed explanation of the deployment process along with the scripts used for installation.
 
